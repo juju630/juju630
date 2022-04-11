@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BEAUDOUX Julien => @juju630 (don't judge me i was young ) 
-- 👀 I’m interested in web Services languages likes Node JS / Java Spring 
+- 👀 I’m interested in web Services languages likes Angular JS / Java Spring 
 - 🌱 I’m currently learning.
 - :office: [CGI](https://www.cgi.com/fr)
 
